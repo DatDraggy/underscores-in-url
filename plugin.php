@@ -4,7 +4,7 @@ Plugin Name: Add underscores to shortener charset
 Plugin URI: https://github.com/WInf9Kieran/underscores-in-url/
 Description: You can use underscores for custom links with this plugin
 Version: 1.0
-Author: Kieran
+Author: DatDraggy
 Author URI: https://www.kieran.pw/
 */
 

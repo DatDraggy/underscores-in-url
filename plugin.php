@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Add underscores to shortener charset
-Plugin URI: http://github.com/your_name/your_plugin
-Description: One line description of your plugin
+Plugin URI: https://github.com/WInf9Kieran/underscores-in-url/
+Description: You can use underscores for custom links with this plugin
 Version: 1.0
-Author: Your Name
-Author URI: http://your-site-if-any/
+Author: Kieran
+Author URI: https://www.kieran.pw/
 */
 
 // No direct call

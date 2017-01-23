@@ -1,0 +1,17 @@
+<?php
+/*
+Plugin Name: Add underscores to shortener charset
+Plugin URI: http://github.com/your_name/your_plugin
+Description: One line description of your plugin
+Version: 1.0
+Author: Your Name
+Author URI: http://your-site-if-any/
+*/
+
+// No direct call
+if( !defined( 'YOURLS_ABSPATH' ) ) die();
+
+yourls_add_filter( 'get_shorturl_charset', 'kieran_underscore_for_links' );
+function kieran_underscore_for_links( $in ) {
+	return $in.'_';
+}
